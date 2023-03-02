@@ -21,7 +21,7 @@ After opening the app, click get started. On the on the right side of the screen
 
 
 ## License
-(https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## How to Contribute 
 Contributors could add a way for users to share notes, or add a level of importance/urgency to each note.
